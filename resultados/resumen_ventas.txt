@@ -1,0 +1,14 @@
+=====================================
+RESULTADOS DEL ANÁLISIS DE VENTAS
+=====================================
+
+Ventas Totales: $600.00
+
+Producto Más Vendido: Aceite
+Cantidad Vendida: 12
+
+VENTAS POR MES
+-------------------------
+mes
+1    500
+2    100
